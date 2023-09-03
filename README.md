@@ -1,7 +1,6 @@
-### Hi there 👋 I'm Kuba
+### Hi, I'm Kuba 👋
 
-- 🔭 I’m 3rd year student of Data Science at [Warsaw University of Technology](https://ww2.mini.pw.edu.pl/) and Quantitative Methods in Economics and Information Systems at [Warsaw School of Economics](https://www.sgh.waw.pl/en).
-
+- 🎓 I’m currently studying Data Science at [Warsaw University of Technology](https://ww2.mini.pw.edu.pl/) and Quantitative Methods in Economics and Information Systems at [Warsaw School of Economics](https://www.sgh.waw.pl/en).
 <!--
 **kubarrr/kubarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
