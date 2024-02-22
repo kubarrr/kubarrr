@@ -8,6 +8,8 @@
 - [Fake News Detection](https://github.com/kubarrr/FAKE_NEWS_DETECTION) (classification), [Heart Diseases](https://github.com/kubarrr/HEART_DISEASES_CLUSTERING) (clustering) - Python Machine Learning projects
 - [Google Activity](https://github.com/kubarrr/GOOGLE_ACTIVITY_R_SHINY_APP) (Shiny app), [Olympic Charts](https://github.com/kubarrr/OLYMPICS_CHARTS) (poster) - Data Visualization Techniques in R
 - [Air Traffic](https://github.com/kubarrr/AIR_TRAFFIC) - JAVA app (REST API, JSON, GUI)
+- [Car Shop](https://github.com/kubarrr/Django-CarShop) - Django Project
+- [Speed Math Game](https://github.com/kubarrr/SPEED_MATH_GAME) - JavaScript game
 
 <!--
 **kubarrr/kubarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
