@@ -14,9 +14,9 @@ Desktop apps: [Air Traffic](https://github.com/kubarrr/AIR_TRAFFIC)
 
 Web programming: [Betting Football Odds App Bachelor Thesis](https://github.com/kubarrr/Betting-Odds-App) | [Car Shop](https://github.com/kubarrr/Django-CarShop) | [Speed Math Game](https://github.com/kubarrr/SPEED_MATH_GAME)
 
-Cloud and databases: [Covid Data Warehouse](https://github.com/kubarrr/COVID_DATA_WAREHOUSE) | [Photo Upload Cloud GCP](https://github.com/kubarrr/PhotoUpload-Google-Cloud-App) | [Big data match analysis](https://github.com/kubarrr/BIG_DATA_MATCH_ANALYSIS)
+Cloud and databases: [Covid Data Warehouse](https://github.com/kubarrr/COVID_DATA_WAREHOUSE) | [Photo Upload Cloud GCP](https://github.com/kubarrr/PhotoUpload-Google-Cloud-App) | [Big Data Match Analysis](https://github.com/kubarrr/BIG_DATA_MATCH_ANALYSIS)
 
-Bioinformatics: [Chromatin simulated annealing](https://github.com/kubarrr/Chromatin_simulated_annealing) | [DNA Regulatory Activity](https://github.com/kubarrr/Modeling-DNA-Sequence-Determinants-of-Regulatory-Activity)
+Bioinformatics: [Chromatin Simulated Annealing](https://github.com/kubarrr/Chromatin_simulated_annealing) | [DNA Regulatory Activity](https://github.com/kubarrr/Modeling-DNA-Sequence-Determinants-of-Regulatory-Activity)
 
 Data analytics:
 [Google Activity](https://github.com/kubarrr/GOOGLE_ACTIVITY_R_SHINY_APP) | [Olympic Charts](https://github.com/kubarrr/OLYMPICS_CHARTS)
