@@ -1,7 +1,7 @@
 ## Hi, I'm Kuba 👋
 
 ### Machine Learning researcher with strong academic background: 
-🎓 Machine Learning [University of Warsaw](https://www.mimuw.edu.pl/pl/studia/machine-learning-nowy-kierunek-na-studiach-ii-stopnia/) | Data Science [Warsaw University of Technology](https://ww2.mini.pw.edu.pl/) | Quantitative Methods in Economics and Information Systems & Big Data [Warsaw School of Economics](https://www.sgh.waw.pl/en)
+🎓 Machine Learning (MSc) [University of Warsaw](https://www.mimuw.edu.pl/pl/studia/machine-learning-nowy-kierunek-na-studiach-ii-stopnia/) | Data Science (BSc & MSc) [Warsaw University of Technology](https://ww2.mini.pw.edu.pl/) | Quantitative Methods in Economics and Information Systems (BSc) & Big Data (MSc) [Warsaw School of Economics](https://www.sgh.waw.pl/en)
 
 🏆 Laureate of the Polish Junior Mathematical Olympiad, Finalist of the Mathematical Linguistics Olympiad, Laureate of the Warsaw University of Technology Mathematical Competition, Prime minister scholarship for academic performance
  
@@ -16,7 +16,7 @@ Web programming: [Betting Football Odds App Bachelor Thesis](https://github.com/
 
 Cloud and databases: [Covid Data Warehouse](https://github.com/kubarrr/COVID_DATA_WAREHOUSE) | [PhotoUpload GCP](https://github.com/kubarrr/PhotoUpload-Google-Cloud-App)
 
-Bioinformatics: [Chromatin_simulated_annealing](https://github.com/kubarrr/Chromatin_simulated_annealing) | [DNA Regulatory Activity](https://github.com/kubarrr/Modeling-DNA-Sequence-Determinants-of-Regulatory-Activity)
+Bioinformatics: [Chromatin simulated annealing](https://github.com/kubarrr/Chromatin_simulated_annealing) | [DNA Regulatory Activity](https://github.com/kubarrr/Modeling-DNA-Sequence-Determinants-of-Regulatory-Activity)
 
 Data analytics:
 [Google Activity](https://github.com/kubarrr/GOOGLE_ACTIVITY_R_SHINY_APP) | [Olympic Charts](https://github.com/kubarrr/OLYMPICS_CHARTS)
