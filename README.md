@@ -3,12 +3,12 @@
 ### Machine Learning researcher with strong academic background: 
 🎓 Machine Learning (MSc) [University of Warsaw](https://www.mimuw.edu.pl/pl/studia/machine-learning-nowy-kierunek-na-studiach-ii-stopnia/) | Data Science (BSc & MSc) [Warsaw University of Technology](https://ww2.mini.pw.edu.pl/) | Quantitative Methods in Economics and Information Systems (BSc) & Big Data (MSc) [Warsaw School of Economics](https://www.sgh.waw.pl/en)
 
-🏆 Laureate of the Polish Junior Mathematical Olympiad, Finalist of the Mathematical Linguistics Olympiad, Laureate of the Warsaw University of Technology Mathematical Competition, Prime minister scholarship for academic performance
+🏆 Laureate of the Junior Mathematical Olympiad, Finalist of the Mathematical Linguistics Olympiad, Laureate of the Warsaw University of Technology Mathematical Competition, Prime minister scholarship for academic performance
  
 📫 How to reach me:  <img src="https://github.com/eftakhairul/sticky-social-bar/blob/master/images/linkedin.png" height="15"> [LinkedIn](https://www.linkedin.com/in/jakub-rymarski/)
 ##
 ### My projects:
-Machine Learning: [Fake News Detection](https://github.com/kubarrr/FAKE_NEWS_DETECTION) | [VLM-Visual-Perspective-Taking](https://github.com/kubarrr/VLM-Visual-Perspective-Taking) | [Heart Diseases](https://github.com/kubarrr/HEART_DISEASES_CLUSTERING)
+Machine Learning: [Fake News Detection](https://github.com/kubarrr/FAKE_NEWS_DETECTION) | [VLM Research Visual Perspective Taking](https://github.com/kubarrr/VLM-Visual-Perspective-Taking) | [Heart Diseases](https://github.com/kubarrr/HEART_DISEASES_CLUSTERING)
 
 Desktop apps: [Air Traffic](https://github.com/kubarrr/AIR_TRAFFIC)
 
